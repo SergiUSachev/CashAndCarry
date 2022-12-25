@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashAndCarry", "CashAndCarry\CashAndCarry.csproj", "{87B4E3D2-DFD2-49F3-85F2-F91DA5BBEBA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B4E3D2-DFD2-49F3-85F2-F91DA5BBEBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B4E3D2-DFD2-49F3-85F2-F91DA5BBEBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B4E3D2-DFD2-49F3-85F2-F91DA5BBEBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B4E3D2-DFD2-49F3-85F2-F91DA5BBEBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED971E16-585C-4BE4-854E-60AB3D19D694}
+	EndGlobalSection
+EndGlobal
